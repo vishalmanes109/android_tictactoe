@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vishal.tictactoe">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GalaxyMode"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".NightMode"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".darkEvil"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AngelsMode"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".PlayerData" />
+        <activity android:name=".PlayerData1" />
+        <activity android:name=".PlayerData2" />
+        <activity android:name=".PlayerData3" />
+        <activity android:name=".AdvanceMode"
+            android:parentActivityName=".MainActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/wallpaper2">
+
+
+    <TextView
+        android:id="@+id/tictac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="75dp"
+        android:fontFamily="monospace"
+        android:text="TiC  tAc  ToE"
+        android:textAlignment="center"
+        android:textColor="?android:attr/textColorSecondaryNoDisable"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="132dp"
+        android:fontFamily="casual"
+        android:text="Age 0f DeMoNs"
+        android:textAlignment="center"
+        android:textColor="?android:attr/textColorHintInverse"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/galaxy"
+        android:layout_width="210dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="260dp"
+        android:alpha="0.75"
+        android:onClick="setDarkMode"
+        android:text="DARK" />
+
+    <Button
+        android:id="@+id/night"
+        android:layout_width="210dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="256dp"
+        android:alpha="0.75"
+        android:onClick="setClasicMode"
+        android:text="CLASIC" />
+
+    <Button
+        android:id="@+id/devils"
+        android:layout_width="210dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:alpha="0.75"
+        android:onClick="setAdvanceMode"
+        android:text="ADVANCE" />
+
+
+
+
+</RelativeLayout>
