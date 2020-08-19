@@ -19,9 +19,3 @@ You must know basic of java Sytax ,OOP concepts for android building and litle b
 Built With:
 Android Studio, Android virtual Device.
 
-Authors
-Vishal Mane
-
-License
-This is an open source project.
-
