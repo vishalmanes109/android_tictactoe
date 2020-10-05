@@ -1,21 +1,50 @@
-# android_tictactoe
-The Propose project is Android Application(Game) Tic Tac Toe. this is complete and released version of application.
-Aplication is quite handy and easy to use with minimilistic UI.
+# Tic Tac Toe
+#### Android Game
 
-Technology used: Java, XML.
-Tools used:Android studio, Android Virtual Device(only for testing). 
+## Introduction:
+* Tic Tac Toe is an android game it has 3 different Modes.
+* Classic mode with 3X3 board.
+* Advance Mode with 4X4 board.
+* Dark Mode
 
+* This is complete and released version of application.
+*Aplication is quite handy and easy to use with minimilistic UI.
 
-Getting Started:
-If anyone wanted to modify or use this project can directly download the repo and open the project in android studio.
-if anyone wanted to test the android application can follow this(android_tictactoe/app/release/) path and download apk file .
+<img src='./img/mockup-home-min.jpg'>
 
-
-Prerequisites:
+## Prerequisites:
 You must have Android Studio install and configured properly.
 You must know basic of java Sytax ,OOP concepts for android building and litle bit of XML.
 
+## Technology Stack:
+* Java
+* XML
 
-Built With:
-Android Studio, Android virtual Device.
+## Tools :
+* Android studio
+* Android Virtual Device 
+
+<img src='./img/mockDrop_welcome-min.jpg'>
+
+<img src='./img/mockup_dark-min.jpg'>
+
+<img src='./img/mockDrop_advance%20mode-min.jpg'>
+
+
+## Getting Started:
+* clone repo
+* Open Project in Android Studio
+* sync, build the gradle
+
+* if wanted to check the android application can follow  <a href='./app/release/app-release.apk'>This Path</a>a>  and download apk file .
+
+
+
+## Built With:
+* Android Studio
+* Android virtual Device.
+
+## Author
+* Vishal Mane
+
 
