@@ -15,11 +15,11 @@
 </div>
 
 <div align="center">
-<img src='./img/mockDrop_welcome-min.jpg' width="50%">
+<img src='./img/mockup_dark-min.jpg' width="50%">
 </div>
 
 <div align="center">
-<img src='./img/mockup_dark-min.jpg' width="50%">
+<img src='./img/mockDrop_welcome-min.jpg' width="50%">
 </div>
 
 <div align="center">
