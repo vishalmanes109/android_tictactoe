@@ -12,6 +12,8 @@
 
 <img src='./img/mockup-home-min.jpg' width="50%"  height= "auto" >
 
+<img src='./img/home.jpeg' width="50%"  height= "auto" >
+
 ## Prerequisites:
 You must have Android Studio install and configured properly.
 You must know basic of java Sytax ,OOP concepts for android building and litle bit of XML.
@@ -24,11 +26,11 @@ You must know basic of java Sytax ,OOP concepts for android building and litle b
 * Android studio
 * Android Virtual Device 
 
-<img src='./img/mockDrop_welcome-min.jpg'>
+<img src='./img/mockDrop_welcome-min.jpg' width="50%">
 
-<img src='./img/mockup_dark-min.jpg'>
+<img src='./img/mockup_dark-min.jpg' width="50%">
 
-<img src='./img/mockDrop_advance%20mode-min.jpg'>
+<img src='./img/mockDrop_advance%20mode-min.jpg' width="50%">
 
 
 ## Getting Started:
