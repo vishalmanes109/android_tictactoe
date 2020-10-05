@@ -10,7 +10,7 @@
 * This is complete and released version of application.
 *Aplication is quite handy and easy to use with minimilistic UI.
 
-<img src='./img/mockup-home-min.jpg'>
+<img src='./img/mockup-home-min.jpg' width="50%"  height: "auto" >
 
 ## Prerequisites:
 You must have Android Studio install and configured properly.
