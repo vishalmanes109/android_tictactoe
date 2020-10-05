@@ -10,10 +10,12 @@
 * This is complete and released version of application.
 *Aplication is quite handy and easy to use with minimilistic UI.
 
+<span>
 <img src='./img/mockup-home-min.jpg' width="50%"  height= "auto" >
 
 <img src='./img/home.jpeg' width="50%"  height= "auto" >
 
+</span>
 ## Prerequisites:
 You must have Android Studio install and configured properly.
 You must know basic of java Sytax ,OOP concepts for android building and litle bit of XML.
@@ -26,9 +28,11 @@ You must know basic of java Sytax ,OOP concepts for android building and litle b
 * Android studio
 * Android Virtual Device 
 
+<span>
 <img src='./img/mockDrop_welcome-min.jpg' width="50%">
 
 <img src='./img/mockup_dark-min.jpg' width="50%">
+</span>
 
 <img src='./img/mockDrop_advance%20mode-min.jpg' width="50%">
 
