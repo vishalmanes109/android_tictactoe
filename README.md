@@ -10,9 +10,13 @@
 * This is complete and released version of application.
 *Aplication is quite handy and easy to use with minimilistic UI.
 
-<img src='./img/mockup-home-min.jpg' width="50%"  height= "auto" >
+<div align="left">
+<img src='./img/mockup-home-min.jpg' width="50%"   height= "auto" >
+</div>
 
+<div align="right">
 <img src='./img/mockDrop_welcome-min.jpg' width="50%">
+</div>
 
 <img src='./img/mockup_dark-min.jpg' width="50%">
 
